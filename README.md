@@ -1,3 +1,4 @@
+![Taste Haven Restaurant Website](taste-haven.png)
 # Taste Haven Restaurant Website
 
 ## 🌐 Live Website
